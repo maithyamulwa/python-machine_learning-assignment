@@ -1,0 +1,4 @@
+Name: Mulwa Maithya
+ID: 3356
+The linear regression algorithm was used in the supervised machine learning code to predict the outcome of the studies of the students.
+The KMeans algorithm is used in the unsupervised machine learning algorithm to group customers with the same behaviour
